@@ -1,4 +1,4 @@
-# <h4><em>Hola soy Tomas. 😊</br></em></h4>
+## Hola soy Tomas. 😊
 
 ## Desarrollador Web Full Stack
 
