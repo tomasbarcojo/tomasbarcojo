@@ -1,6 +1,8 @@
-## Hola soy Tomas. 😊
+## Hola, soy Tomas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## Desarrollador Web Full Stack
+## Desarrollador Web Full Stack (y todavia aprendiz!)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=tomasbarcojo.tomasbarcojo)
 
 ---
 
@@ -11,7 +13,7 @@ Comence la carrera de Ingenieria en Informatica y mientras cursaba decidí que e
 
 Actualmente me encuento en la ultíma etapa del BootCamp donde estamos desarrollando una aplicación de cero la cual se basa en un aula virtual. Anteriormente realizamos una pagina E-Commerce. [HENRY](https://www.soyhenry.com/).
 
-[![Tomas's github stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&hide=stars,issues&show_icons=true&theme=dark)](https://github.com/tomasbarcojo/github-readmestats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbarcojo&layout=compact)](https://github.com/tomasbarcojo/github-readme-stats)
+[![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbarcojo&theme=tokyonight)
 
 ---
 
