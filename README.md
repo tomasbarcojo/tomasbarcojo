@@ -1,4 +1,4 @@
-# Tomas Barcojo
+# <h4><em>Hola soy Tomas. 😊</br></em></h4>
 
 ## Desarrollador Web Full Stack
 
@@ -10,6 +10,10 @@ Mi nombre es Tomas, y estoy finalizando un BootCamp de Desarrollo Web Fullstack.
 Comence la carrera de Ingenieria en Informatica y mientras cursaba decidí que el desarrollo web era con lo que quería comenzar mi carrera profesional.
 
 Actualmente me encuento en la ultíma etapa del BootCamp donde estamos desarrollando una aplicación de cero la cual se basa en un aula virtual. Anteriormente realizamos una pagina E-Commerce. [HENRY](https://www.soyhenry.com/).
+
+[![Tomas's github stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&hide=stars,issues&show_icons=true&theme=dark)](https://github.com/tomasbarcojo/github-readmestats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasbarcojo&layout=compact)](https://github.com/tomasbarcojo/github-readme-stats)
+
+---
 
 Aquí pueden ver algunos de mis proyectos:
 
