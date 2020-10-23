@@ -13,7 +13,7 @@ Comence la carrera de Ingenieria en Informatica y mientras cursaba decidí que e
 
 Actualmente me encuento en la ultíma etapa del BootCamp donde estamos desarrollando una aplicación de cero la cual se basa en un aula virtual. Anteriormente realizamos una pagina E-Commerce. [HENRY](https://www.soyhenry.com/).
 
-[![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=dark)
+![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=dark)
 
 ---
 
