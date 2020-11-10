@@ -2,8 +2,6 @@
 
 ## Desarrollador Web Full Stack (y todavia aprendiz! 😄)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=tomasbarcojo.tomasbarcojo)
-
 ---
 
 ¡Hola!
