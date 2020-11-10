@@ -21,6 +21,7 @@ Aquí pueden ver algunos de mis proyectos:
 
 - [E-Commerce](https://github.com/tomasbarcojo/E-Commerce): En este desarrollo con un equipo de 4 compañeros, desarrollamos un eCommerce, aquí puse en práctica el stack que aprendí: React.js, Redux, Node.js, express.js, PostgreSQL, Sequalize y además aprendí tecnologías que no conocia como ejs.js, JSON Web Tokens(JWT), Material-ui, multer y nodemailer.
 - [Henry APP](https://github.com/Jasper13006/HenryApp): Esta aplicación se trata de un aula virtual que contiene chat en tiempo real, calendario con eventos diarios y/o por horarios, sistema de invitaciones masivas a correos electronicos, calificaciones a alumnos, y más. Desarrollado junto a 9 compañeros.
+- [Chat APP](https://github.com/tomasbarcojo/Real-Time-Chat): Consiste en una app sencilla de chat en tiempo real, en la que cada usuario tiene la posibilidad de ingresar su nombre y la sala de chat a la que desea conectarse.
 
 ---
 
