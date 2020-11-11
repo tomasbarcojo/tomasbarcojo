@@ -11,6 +11,8 @@ Comence la carrera de Ingenieria en Informatica y mientras cursaba decidí que e
 
 Actualmente me encuentro realizando proyectos personales y en busqueda de trabajo como desarrollador web full stack.
 
+En este momento estoy trabajando en [Diff-App](https://github.com/tomasbarcojo/diff-app): mas info proximamente! 
+
 ![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=dark)
 
 <h3 align="left">Languages and Tools:</h3>
