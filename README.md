@@ -11,7 +11,7 @@ Comence la carrera de Ingenieria en Informatica y mientras cursaba decidí que e
 
 Actualmente me encuentro realizando proyectos personales y en busqueda de trabajo como desarrollador web full stack.
 
-En este momento estoy trabajando en [Diff-App](https://github.com/tomasbarcojo/diff-app): mas info proximamente! 
+En este momento estoy trabajando en [Scheduler For Google Meet](https://github.com/tomasbarcojo/Scheduler-For-GoogleMeet): se trata de una app encargada de automatizar y recordar tus clases virtuales.
 
 ![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=dark)
 
