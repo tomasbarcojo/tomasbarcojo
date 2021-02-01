@@ -13,7 +13,7 @@ Soy estudiante de Ingenieria Informatica y decidí que el desarrollo web era con
 
 Actualmente me encuentro realizando proyectos personales y en busqueda de trabajo.
 
-En este momento estoy trabajando en un software administrativo para una empresa local 🧑‍💻
+En este momento estoy trabajando en un software administrativo para una empresa local 💻
 
 ![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=dark)
 
