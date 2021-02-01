@@ -5,13 +5,15 @@
 ---
 
 ¡Hola!
-Mi nombre es Tomas, y finalice el BootCamp de Desarrollo Web Fullstack en [HENRY](https://www.soyhenry.com/).
+Mi nombre es Tomas, y soy desarrollador web.
 
-Comence la carrera de Ingenieria en Informatica y mientras cursaba decidí que el desarrollo web era con lo que quería comenzar mi carrera profesional.
+Finalice el BootCamp de Desarrollo Web Fullstack en [HENRY](https://www.soyhenry.com/) y sigo aprendiendo de forma autodidacta.
 
-Actualmente me encuentro realizando proyectos personales y en busqueda de trabajo como desarrollador web full stack.
+Soy estudiante de Ingenieria Informatica y decidí que el desarrollo web era con lo que quería comenzar mi carrera profesional.
 
-En este momento estoy trabajando en un software administrativo para una empresa local 👨🏻‍💻
+Actualmente me encuentro realizando proyectos personales y en busqueda de trabajo.
+
+En este momento estoy trabajando en un software administrativo para una empresa local 🧑‍💻
 
 ![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=dark)
 
