@@ -15,6 +15,8 @@ Actualmente me encuentro realizando proyectos personales y en busqueda de trabaj
 
 En este momento estoy trabajando en un software administrativo para una empresa local 💻
 
+---
+
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=dark" alt="Tomas's GitHub stats" />
 </p>
