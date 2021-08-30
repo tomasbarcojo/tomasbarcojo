@@ -5,15 +5,16 @@
 ---
 
 ¡Hola!
-Mi nombre es Tomas, y soy desarrollador web.
+Mi nombre es Tomas, y soy desarrollador web full stack.
 
 Finalice el BootCamp de Desarrollo Web Fullstack en [HENRY](https://www.soyhenry.com/) y sigo aprendiendo de forma autodidacta.
+Actualmente estoy realizando la carrera de [Certified Tech Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) por Mercado Libre y Globant junto a Digital House.
 
-Soy estudiante de Ingenieria Informatica y decidí que el desarrollo web era con lo que quería comenzar mi carrera profesional.
+Decidí que el desarrollo web era con lo que quería comenzar a crecer de manera profesional.
 
-Actualmente me encuentro realizando proyectos personales y en busqueda de trabajo.
+Actualmente me encuentro realizando proyectos personales y en busqueda activa de trabajo.
 
-En este momento estoy trabajando en un software administrativo para una empresa local 💻
+En este momento estoy trabajando en un software administrativo para una empresa local 💻 (Santa Fe, Argentina)
 
 ---
 
@@ -30,6 +31,7 @@ Aquí pueden ver algunos de mis proyectos:
 
 ## Proyectos principales
 
+- [Administration Web App (En desarrollo)](https://github.com/tomasbarcojo/activa-adm): Se trata de una aplicacion web diseñada para llevar a cabo la administracion de una empresa con sus clientes, proveedores, cuentas corrientes, detalles de ventas (ingresos y egresos), carrito de compras, calendario de tareas, chat integrado, etc.
 - [E-Commerce](https://github.com/tomasbarcojo/E-Commerce): En este desarrollo con un equipo de 4 compañeros, desarrollamos un eCommerce, aquí puse en práctica el stack que aprendí: React.js, Redux, Node.js, express.js, PostgreSQL, Sequalize y además aprendí tecnologías que no conocia como ejs.js, JSON Web Tokens(JWT), Material-ui, multer y nodemailer.
 - [Henry APP](https://github.com/Jasper13006/HenryApp): Esta aplicación se trata de un aula virtual que contiene chat en tiempo real, calendario con eventos diarios y/o por horarios, sistema de invitaciones masivas a correos electronicos, calificaciones a alumnos, y más. Desarrollado junto a 9 compañeros.
 - [Chat APP](https://github.com/tomasbarcojo/Real-Time-Chat): Consiste en una app sencilla de chat en tiempo real, en la que cada usuario tiene la posibilidad de ingresar su nombre y la sala de chat a la que desea conectarse.
