@@ -12,7 +12,7 @@ Actualmente estoy realizando la carrera [Certified Tech Developer](https://www.d
 
 Decidí que el desarrollo web era con lo que quería comenzar a crecer de manera profesional.
 
-En este momento estoy trabajando de forma remota para [Chiper](https://www.soyhenry.com/) como desarollador Backend 💻.
+En este momento estoy trabajando de forma remota para [Chiper](https://growth.chiper.co/) como desarollador Backend 💻.
 
 ---
 
