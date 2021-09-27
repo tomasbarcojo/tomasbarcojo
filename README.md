@@ -40,4 +40,3 @@ Mantengámonos en contacto!
 - 📫 tomasbarcojo@gmail.com
 - 📞 +54 9 342 466-3535
 - [LinkedIn](https://www.linkedin.com/in/tomas-barcojo-fullstack/)
-- [Instagram](https://www.instagram.com/tomibarcojo/)
