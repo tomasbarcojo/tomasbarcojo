@@ -8,7 +8,6 @@
 Mi nombre es Tomas, y soy desarrollador web full stack.
 
 Finalice el BootCamp de Desarrollo Web Fullstack en [HENRY](https://www.soyhenry.com/) y sigo aprendiendo de forma autodidacta.
-Actualmente estoy realizando la carrera [Certified Tech Developer](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) diseñada por Mercado Libre y Globant junto a Digital House.
 
 Decidí que el desarrollo web era con lo que quería comenzar a crecer de manera profesional.
 
