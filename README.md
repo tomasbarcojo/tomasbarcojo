@@ -1,6 +1,6 @@
-## Hola, soy Tomas
+# Hola, soy Tomas
 
-# Desarrollador Web BackEnd (y todavia aprendiz! 😄)
+## Desarrollador Web BackEnd (y todavia aprendiz! 😄)
 
 ---
 
