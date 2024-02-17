@@ -11,7 +11,7 @@ Finalice el BootCamp de Desarrollo Web Fullstack en [HENRY](https://www.soyhenry
 
 Decidí que el desarrollo web era con lo que quería comenzar a crecer de manera profesional.
 
-En este momento estoy trabajando de forma remota para [Chiper](https://growth.chiper.co/) como desarollador Backend 💻.
+En este momento estoy trabajando de forma remota para UDT como desarollador FullStack 💻.
 
 ---
 
