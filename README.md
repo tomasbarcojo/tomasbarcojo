@@ -1,41 +1,83 @@
-# Hola, soy Tomas
+# Tomás Barcojo
 
-## Desarrollador Web BackEnd
+Backend Developer focused on building production-ready backend systems, integrations and internal platforms with TypeScript, Node.js and NestJS.
 
----
-
-¡Hola!
-Mi nombre es Tomas, y soy desarrollador backend.
-
-Finalice el BootCamp de Desarrollo Web Fullstack en [HENRY](https://www.soyhenry.com/) y sigo aprendiendo de forma autodidacta.
-
-Decidí que el desarrollo web era con lo que quería comenzar a crecer de manera profesional.
-
-En este momento estoy trabajando de forma remota para UDT como desarollador FullStack 💻.
+I work on API design, automation, cloud-based services and operational tools, with a strong focus on real-world business environments and solutions tailored to client needs.
 
 ---
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=tomasbarcojo&show_icons=true&theme=dark" alt="Tomas's GitHub stats" />
-</p>
+## About me
 
-<h3 align="center">Tecnologias y herramientas:</h3>
-<p align="center"> <a href="https://nestjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <a href="https://nestjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank"> <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> </p>
+I enjoy building software that solves practical problems.
 
----
+My work focuses on backend systems, service integrations, process automation and internal tools used in real business operations.
 
-Aquí pueden ver algunos de mis proyectos:
+In addition to my main professional work, I build and maintain private side projects for [Activa Distribuidora](https://activadistribuidora.com.ar/), focused on internal platforms, operational tools and customer-oriented features.
 
-## Proyectos principales
-
-- [Administration Web App](https://github.com/tomasbarcojo/activa-adm): Se trata de una aplicacion web diseñada para llevar a cabo la administracion de una empresa con sus clientes, proveedores, cuentas corrientes, detalles de ventas (ingresos y egresos), carrito de compras, calendario de tareas, chat integrado, etc.
-- [E-Commerce](https://github.com/tomasbarcojo/E-Commerce): En este desarrollo con un equipo de 4 compañeros, desarrollamos un eCommerce, aquí puse en práctica el stack que aprendí: React.js, Redux, Node.js, express.js, PostgreSQL, Sequalize y además aprendí tecnologías que no conocia como ejs.js, JSON Web Tokens(JWT), Material-ui, multer y nodemailer.
-- [Henry APP](https://github.com/Jasper13006/HenryApp): Esta aplicación se trata de un aula virtual que contiene chat en tiempo real, calendario con eventos diarios y/o por horarios, sistema de invitaciones masivas a correos electronicos, calificaciones a alumnos, y más. Desarrollado junto a 9 compañeros.
-- [Chat APP](https://github.com/tomasbarcojo/Real-Time-Chat): Consiste en una app sencilla de chat en tiempo real, en la que cada usuario tiene la posibilidad de ingresar su nombre y la sala de chat a la que desea conectarse.
+I am also currently working on [Wappoints](https://wappoints.com/), a project related to customer engagement and loyalty experiences.
 
 ---
 
-Mantengámonos en contacto!
-- 📫 tomasbarcojo@gmail.com
-- 📞 +54 9 342 466-3535
+## Main stack
+
+### Backend
+- TypeScript
+- Node.js
+- NestJS
+- Express
+
+### Frontend
+- React
+- TypeScript
+
+### Database
+- Microsoft SQL Server
+- Redis
+- PostgreSQL
+
+### Cloud / Infrastructure
+- Azure
+- Docker
+- Ubuntu Server
+- Nginx
+
+### Other tools
+- GitHub Actions
+- Puppeteer
+- Socket.IO
+- REST APIs
+- Webhooks
+
+---
+
+## What I usually work on
+
+- backend APIs and service integrations
+- complex integrations and technical solutions for client and business needs
+- internal business tools and operational platforms
+- ERP-connected workflows
+- automation processes and webhook-based flows
+- Dockerized services and Linux server deployments
+- cloud-based solutions built with Azure services
+- real-time features and event-driven processes
+- collaborative technical decision-making within development teams
+- maintainable systems built for real operational use
+
+---
+
+## Current interests
+
+- practical use of AI to improve workflows, productivity and software development processes
+- backend architecture
+- scalable integrations
+- automation workflows
+- reliable production systems
+- maintainable full-stack applications
+- business software with real operational impact
+
+---
+
+## Contact
+
+- tomasbarcojo@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/tomas-barcojo/)
